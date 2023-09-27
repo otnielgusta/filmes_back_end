@@ -1,5 +1,4 @@
-EM_CARTAZ = {
- "em_cartaz":  [
+CONINUE_ASSISTINDO = [
     {
       "adult": False,
       "backdrop_path": "/3tzPSJiCPqacAgRsMkMPof2ZinL.jpg",
@@ -398,10 +397,8 @@ EM_CARTAZ = {
       "vote_count": 1247
     }
   ]
-}
 
-POPULAR = {
-"popular": [
+POPULAR = [
   {
     "adult": False,
     "backdrop_path": "/3tzPSJiCPqacAgRsMkMPof2ZinL.jpg",
@@ -802,10 +799,8 @@ POPULAR = {
     "vote_count": 2007
   }
 ]
-}
 
-TOP_RATED = {
-  "top_rated": [
+TOP_RATED = [
     {
       "adult": False,
       "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
@@ -1196,10 +1191,8 @@ TOP_RATED = {
       "vote_count": 3216
     }
   ]
-}
 
-CHEGANDO = {
-"chegando":  [
+CHEGANDO = [
     {
       "adult": False,
       "backdrop_path": "/3tzPSJiCPqacAgRsMkMPof2ZinL.jpg",
@@ -1596,8 +1589,8 @@ CHEGANDO = {
       "vote_average": 6.5,
       "vote_count": 548
     }
-  ],
-}
+  ]
+
 
 access_token = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1NGEwMTNiODAzYjk3ZDQ1MzRkYWI5YWNlOWU2YTFiMiIsInN1YiI6IjY1MDY0ODZkZmEyN2Y0MDBjYWEzY2I3ZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.JdChf5FAh9pADeoC9N5G_cEQ_5fe0qOK6zX6y7r4HrI"
 api_key = "54a013b803b97d4534dab9ace9e6a1b2"
