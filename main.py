@@ -15,7 +15,12 @@ def read_root():
 
 @app.get("/filmes")
 def listar_filmes():
-    lista_filmes = [EM_CARTAZ, POPULAR, TOP_RATED, CHEGANDO]
+    lista_filmes = {
+        "continue_assistindo":EM_CARTAZ,
+        "popular":POPULAR,
+    "melhores_avaliados": TOP_RATED,
+    "chegando_agora":CHEGANDO
+    }
     return lista_filmes
 
 @app.get("/detalhe")
